@@ -1,6 +1,7 @@
 <html>
 <body>
 <h1 style="color: blueviolet;"> Hello tomcat </h1>
+<input> <input> <input> <input> <input>
 <h2 style="color: blueviolet;">Hello World! using ansible to tomcat -- installed git in tomcat sever </h2>
 <p> Hello day 4 change 1 </p>
 <p> hey now this change should trigger job1 --> job2 </p>
